@@ -12,7 +12,14 @@ The Scripts are used to calculate and generate rainfall grids, using Geostatisti
 * __Data__ folder contains a few amount of data from the set of all the data, that was used in this thesis. 
 
 
-
+# Cite 
+* @inproceedings{monti2017geometric,
+  title={Geometric deep learning on graphs and manifolds using mixture model cnns},
+  author={Monti, Federico and Boscaini, Davide and Masci, Jonathan and Rodola, Emanuele and Svoboda, Jan and Bronstein, Michael M},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  pages={5115--5124},
+  year={2017}
+}
 
 
 
